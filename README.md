@@ -5,6 +5,8 @@
 
 * в excel создали список городов, которые будем рассматривать в анном анализе, с данными по широте и долготе
 
+
+
 * загрузили данный список в наш анализ
 ![image](https://github.com/PaslenAmari/weather_forecast_cities_and_analysis/assets/106679149/8b5e0f72-20db-4004-a361-6a0ac04127a2)
 
