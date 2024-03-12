@@ -1,2 +1,2 @@
-# weather_forecast_cities_plural
+# weather_forecast_cities_ana analysis
 Прогноз погоды через парсинг данных Яндекс погоды на неделю вперёд + анализ данных для городов, находящихся на одной широте
