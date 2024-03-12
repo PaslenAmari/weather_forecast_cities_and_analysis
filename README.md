@@ -20,7 +20,7 @@
 Вытащили данные с сайтя Яндекс.погоды
 ![image](https://github.com/PaslenAmari/weather_forecast_cities_and_analysis/assets/106679149/d3bed30c-02d6-46c1-892f-933c83ffcf86)
 
-Выгрузим данные по погоде по интересующим нас городам
+Выгрузили данные по погоде по интересующим нас городам
 ![image](https://github.com/PaslenAmari/weather_forecast_cities_and_analysis/assets/106679149/56e5d7a8-9b56-4d0c-9dad-fda604114f5f)
 
 Посмотрели динамику изменения данных по дневной температуре для городов мира, находящихся примерно на одной широте.
